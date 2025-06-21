@@ -1,0 +1,29 @@
+## Interface: 110200
+
+## Title: Chronicles - Origins
+## Notes: Origins expansion plugin for Chronicles addon
+## Notes-deDE: Origins Erweiterung Plugin für Chronicles Addon
+## Notes-esES: Plugin de expansión Origins para el addon Chronicles
+## Notes-esMX: Plugin de expansión Origins para el addon Chronicles
+## Notes-frFR: Plugin d'extension Origins pour l'addon Chronicles
+## Notes-itIT: Plugin di espansione Origins per l'addon Chronicles
+## Notes-koKR: Chronicles 애드온용 Origins 확장 플러그인
+## Notes-ptBR: Plugin de expansão Origins para o addon Chronicles
+## Notes-ruRU: Плагин расширения Origins для аддона Chronicles
+## Notes-zhCN: Chronicles 插件的 Origins 扩展插件
+## Notes-zhTW: Chronicles 插件的 Origins 擴展插件
+
+## Author: Chronicles Community
+## Version: v1.0.0
+## DefaultState: enabled
+
+## Dependencies: Chronicles
+## LoadOnDemand: 0
+
+## X-License: MIT
+## X-Category: Data
+## X-Website: 
+## X-Curse-Project-ID: 
+## X-WoWI-ID: 
+
+Chronicles-Origins.xml
