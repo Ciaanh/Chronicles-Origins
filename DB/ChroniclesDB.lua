@@ -1,5 +1,5 @@
 local FOLDER_NAME, private = ...
-local Chronicles = private.Chronicles
+local Chronicles = _G.Chronicles or Chronicles
 Chronicles.DB = {}
 Chronicles.DB.Modules = {
 	origins = "Origins"
