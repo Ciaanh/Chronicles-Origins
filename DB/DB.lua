@@ -15,7 +15,9 @@ function ChroniclesPluginData.Register()
 		end
 	end
 
-	if OriginsEventsDB then DataRegistry:RegisterEventDB("Origins", OriginsEventsDB) end
+	if OriginsEventsDB then
+		DataRegistry:RegisterEventDB("Origins", OriginsEventsDB)
+	end
 
 	print("|cff00ff00Chronicles:|r Origins data registered successfully")
 end

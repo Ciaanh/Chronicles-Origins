@@ -1,5 +1,6 @@
+local ADDON_NAME, private = ...
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0")
-local L = AceLocale:NewLocale("Chronicles", "enUS", true, true)
+local L = AceLocale:NewLocale(private.addon_name, "enUS", true, true)
                 
         L["1_opening_of_the_dark_portal"] = "Opening of the Dark Portal"
 
